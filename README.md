@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+I specialize in backend development with expertise in low-level programming and system administration.
 
-<!--
-**hks27d/hks27d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 General stuff
+- How to reach me: hks27d (Discord)
+- Fun fact: `1 is better than 0`
 
-Here are some ideas to get you started:
+## 🚀 Backend
+- Linux backend expertise: Linux Kernel & Syscalls, Networking stack, Bash and Common Linux Software
+- Backend programming languages: Python, C#, Java, Go, C++, C
+- Favorite GNU/Linux distribution: Arch Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Web development
+I am not particularly focused on web development, although I am proficient in a variety of languages, frameworks, and tools. Listing these would not provide significant value to the README.md file, as it would not contribute meaningfully to the document's purpose.
